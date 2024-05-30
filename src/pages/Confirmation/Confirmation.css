@@ -1,0 +1,9 @@
+.forms > h2 {
+  text-align: center;
+}
+
+.back-to-homepage-btn {
+  width: 175px;
+  padding: 1rem;
+  margin: 2rem auto 0 auto;
+}
